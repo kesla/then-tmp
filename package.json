@@ -1,7 +1,7 @@
 {
   "name": "then-tmp",
   "version": "0.0.0",
-  "description": "Promised version of the node.js fs module. All non-callback-taking functions of fs are simply inherited.",
+  "description": "Promised version of the node.js tmp module.",
   "main": "dist/index.js",
   "scripts": {
     "test": "babel-tape-runner test.js",
