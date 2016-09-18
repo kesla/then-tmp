@@ -1,6 +1,6 @@
 {
   "name": "then-tmp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promised version of the node.js [tmp](https://www.npmjs.com/package/tmp) module.",
   "main": "dist/index.js",
   "scripts": {
